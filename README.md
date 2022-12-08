@@ -2,8 +2,9 @@
 
 **`Knowledge globetrotter (Web developer/Mobile developer/Content creator)`**
 
-![](https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif)
-
+<p align="center">
+   ![](https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif)
+ </p>
 
 Hello world! I'm a web developer(PERN stack) and mobile developer(React Native) who's willing to take risks, break things, learn a lot and become a better version of myself throughout the process, as I'm constantly learning new things and challenging myself, and always making friends while I'm doing so 😄. Moreover, I have a youtube channel where I recorded all my process throughout the Plataforma 5 coding bootcamp, here below you'll have the link to my channel!
 
