@@ -13,7 +13,7 @@
 Hello world! I'm a web developer(PERN stack) and mobile developer(React Native) who's willing to take risks, break things, learn a lot and become a better version of myself throughout the process, as I'm constantly learning new things and challenging myself, and always making friends while I'm doing so 😄. Moreover, I have a youtube channel where I recorded all my process throughout the Plataforma 5 coding bootcamp, here below you'll have the link to my channel!
 
    <p align="left">
-      <a href="https://www.youtube.com/c/@programandoando5565?sub_confirmation=1">
+      <a href="https://www.youtube.com/@programandoando5565?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_FxWcnR2rCOpJOcv9Cbkgw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@programandoando5565">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC_FxWcnR2rCOpJOcv9Cbkgw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
@@ -50,7 +50,7 @@ Hello world! I'm a web developer(PERN stack) and mobile developer(React Native) 
 [![Bootcamp P5 Semana 2](https://ytcards.demolab.com/?id=yfzNEiId8Mc&title=Bootcamp+P5+Semana+2&lang=en&timestamp=1663354841&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=238 "Bootcamp P5 Semana 2")](https://www.youtube.com/watch?v=yfzNEiId8Mc)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/@programandoando5565?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@programandoando5565?sub_confirmation=1)
 
 <details>
  <summary><h3>👨‍💻 Santiago's Coding Journey</h3></summary>
