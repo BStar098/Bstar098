@@ -42,12 +42,12 @@ Hello world! I'm a web developer(PERN stack) and mobile developer(React Native) 
 ### 📺 My Youtube Videos!
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![TERMINA EL BOOTCAMP Y BUSCAMOS TRABAJO!](https://ytcards.demolab.com/?id=iIPqYNfB6tQ&title=TERMINA+EL+BOOTCAMP+Y+BUSCAMOS+TRABAJO%21&lang=en&timestamp=1670515578&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1891 "TERMINA EL BOOTCAMP Y BUSCAMOS TRABAJO!")](https://www.youtube.com/watch?v=iIPqYNfB6tQ)
 [![BOOTCAMP PLATAFORMA 5 SEMANA 8, 9 Y 10!](https://ytcards.demolab.com/?id=FKey3CH4TEo&title=BOOTCAMP+PLATAFORMA+5+SEMANA+8%2C+9+Y+10%21&lang=en&timestamp=1668885818&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=876 "BOOTCAMP PLATAFORMA 5 SEMANA 8, 9 Y 10!")](https://www.youtube.com/watch?v=FKey3CH4TEo)
 [![BOOTCAMP SEMANA 7, SOLO WEEK!](https://ytcards.demolab.com/?id=Nuc86Meru_8&title=BOOTCAMP+SEMANA+7%2C+SOLO+WEEK%21&lang=en&timestamp=1667069297&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=881 "BOOTCAMP SEMANA 7, SOLO WEEK!")](https://www.youtube.com/watch?v=Nuc86Meru_8)
 [![BOOTCAMP PLATAFORMA 5 SEMANA 5 Y 6](https://ytcards.demolab.com/?id=IQHP491yk4U&title=BOOTCAMP+PLATAFORMA+5+SEMANA+5+Y+6&lang=en&timestamp=1665627260&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=626 "BOOTCAMP PLATAFORMA 5 SEMANA 5 Y 6")](https://www.youtube.com/watch?v=IQHP491yk4U)
 [![PLATAFORMA 5 CODING BOOTCAMP  |  SEMANA 4](https://ytcards.demolab.com/?id=DnCqhnKdos0&title=PLATAFORMA+5+CODING+BOOTCAMP++%7C++SEMANA+4&lang=en&timestamp=1664669170&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=728 "PLATAFORMA 5 CODING BOOTCAMP  |  SEMANA 4")](https://www.youtube.com/watch?v=DnCqhnKdos0)
 [![PLATAFORMA 5 CODING BOOTCAMP SEMANA 3](https://ytcards.demolab.com/?id=Ofla3nBXdhc&title=PLATAFORMA+5+CODING+BOOTCAMP+SEMANA+3&lang=en&timestamp=1663966685&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=441 "PLATAFORMA 5 CODING BOOTCAMP SEMANA 3")](https://www.youtube.com/watch?v=Ofla3nBXdhc)
-[![Bootcamp P5 Semana 2](https://ytcards.demolab.com/?id=yfzNEiId8Mc&title=Bootcamp+P5+Semana+2&lang=en&timestamp=1663354841&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=238 "Bootcamp P5 Semana 2")](https://www.youtube.com/watch?v=yfzNEiId8Mc)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@programandoando5565?sub_confirmation=1)
