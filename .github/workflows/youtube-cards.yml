@@ -13,4 +13,5 @@ jobs:
         with:
           channel_id: UC_FxWcnR2rCOpJOcv9Cbkgw
           comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: AIzaSyB_EvImnw1KCGgXt_Fi-txG2TuE9G5sVZo
           show_duration: true
