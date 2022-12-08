@@ -1,5 +1,5 @@
 
-   <h1 align="center"> 🌟 Bstar098 </h1>
+   <h1 align="center">  💫Bstar098💫 </h1>
 
 
    <h2 align="center"> Knowledge globetrotter (Web developer/Mobile developer/Content creator) </h2>
