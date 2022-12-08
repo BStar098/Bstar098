@@ -1,6 +1,10 @@
-# 🌟 Bstar098 🌟
+<p align="center">
+   <h1> 🌟 Bstar098 </h1>
+   </p>
+   <p align="center">
+   <h1> Knowledge globetrotter (Web developer/Mobile developer/Content creator) </h1>
+   </p>
 
-**`Knowledge globetrotter (Web developer/Mobile developer/Content creator)`**
 
    <p align="center">
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif"/>
