@@ -2,7 +2,7 @@
 
 **`Knowledge globetrotter (Web developer/Mobile developer/Content creator)`**
 
-<div align="center">![](https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif) </div>
+![](https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif)
    
 
 
