@@ -1,9 +1,9 @@
 
    <h1 align="center"> 🌟 Bstar098 </h1>
 
-   <p align="center">
-   <h1> Knowledge globetrotter (Web developer/Mobile developer/Content creator) </h1>
-   </p>
+
+   <h2 align="center"> Knowledge globetrotter (Web developer/Mobile developer/Content creator) </h2>
+
 
 
    <p align="center">
