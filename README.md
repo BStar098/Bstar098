@@ -50,11 +50,17 @@ Hello world! I'm a web developer(PERN stack) and mobile developer(React Native) 
 [![PLATAFORMA 5 CODING BOOTCAMP SEMANA 3](https://ytcards.demolab.com/?id=Ofla3nBXdhc&title=PLATAFORMA+5+CODING+BOOTCAMP+SEMANA+3&lang=en&timestamp=1663966685&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=441 "PLATAFORMA 5 CODING BOOTCAMP SEMANA 3")](https://www.youtube.com/watch?v=Ofla3nBXdhc)
 <!-- END YOUTUBE-CARDS -->
 
+
+
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@programandoando5565?sub_confirmation=1)
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bstar098&show_icons=true&locale=en&layout=compact" alt="bstar098" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bstar098&show_icons=true&locale=en" alt="bstar098" /></p>
+
+---
 
 <details>
  <summary><h3>👨‍💻 Santiago's Coding Journey</h3></summary>
