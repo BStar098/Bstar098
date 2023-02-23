@@ -13,9 +13,9 @@
 Hello world! I'm a web developer(PERN stack) and mobile developer(React Native) who's willing to take risks, break things, learn a lot and become a better version of himself throughout the process, as I'm constantly learning new things and challenging myself, and always making friends while I'm doing so 😄. Moreover, I have a youtube channel where I recorded all my process throughout the Plataforma 5 coding bootcamp, here below you'll have the link to my channel!
 
    <p align="left">
-      <a href="https://www.youtube.com/@programandoando5565?sub_confirmation=1">
+      <a href="https://www.youtube.com/@SantiLucero098?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_FxWcnR2rCOpJOcv9Cbkgw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@programandoando5565">
+      <a href="https://www.youtube.com/@SantiLucero098">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC_FxWcnR2rCOpJOcv9Cbkgw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    </p>
 
@@ -52,7 +52,7 @@ Hello world! I'm a web developer(PERN stack) and mobile developer(React Native) 
 
 
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@programandoando5565?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@SantiLucero098?sub_confirmation=1)
 
 ---
 
@@ -66,4 +66,4 @@ Hello world! I'm a web developer(PERN stack) and mobile developer(React Native) 
  <summary><h3>👨‍💻 Santiago's Coding Journey</h3></summary>
   It all began when I was very young, at nine, when my mother buyed me my first desktop computer. And it was very very slow, but I loved it, and thanks    to her I developed(haha, pun intended) a deep interest in everything related to the tech world, including software development. But my journey into the lands of web development and mobile development began this year, on June, when I started to study very hard in order to acquire a profficient level at web development. I studied at least 8 hours a day, from monday to friday for almost 6 months and I finally can say that it was completely worth it. Not only I'm extremely happy with the technical skills I have acquired, but I'm also very happy because I think I've found what I'm good at and the most important thing, what I like doing! 
 
-[youtube]: https://www.youtube.com/@programandoando5565
+[youtube]: https://www.youtube.com/@SantiLucero098
