@@ -10,7 +10,7 @@
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif"/>
    </p>
 
-I love creating innovative solutions to every-day problems. Being able to help people through exploiting me creativity and problem solving skills really makes me happy.
+I love creating innovative solutions to every-day problems. Being able to help people through exploiting my creativity and problem solving skills really makes me happy.
 
 My youtube channel:
    <p align="left">
