@@ -10,8 +10,9 @@
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif"/>
    </p>
 
-Hello world! I'm a web developer(PERN stack) and mobile developer(React Native) who's willing to take risks, break things, learn a lot and become a better version of himself throughout the process, as I'm constantly learning new things and challenging myself, and always making friends while I'm doing so 😄. Moreover, I have a youtube channel where I recorded all my process throughout the Plataforma 5 coding bootcamp, here below you'll have the link to my channel!
+I love creating innovative solutions to every-day problems. Being able to help people through exploiting me creativity and problem solving skills really makes me happy.
 
+My youtube channel:
    <p align="left">
       <a href="https://www.youtube.com/@SantiLucero098?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_FxWcnR2rCOpJOcv9Cbkgw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a> 
