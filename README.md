@@ -24,7 +24,7 @@ My youtube channel:
 
 ### 🧰 Languages and Tools
 
-<div > 
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    React
 </div>
