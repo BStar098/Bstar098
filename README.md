@@ -55,8 +55,6 @@ My youtube channel:
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bstar098)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bstar098&show_icons=true&locale=en" alt="bstar098" /></p>
 
 ---
