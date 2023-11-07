@@ -54,7 +54,7 @@ My youtube channel:
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@SantiLucero098?sub_confirmation=1)
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bstar098)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bstar098&show_icons=true&locale=en" alt="bstar098" /></p>
 
 ---
