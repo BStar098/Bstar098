@@ -30,7 +30,7 @@ I'm an enthusiastic developer who values staying updated. I'm self-taught in Eng
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bstar098)](https://github.com/anuraghazra/github-readme-stats)
-[![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=bstar098)](https://github.com/anuraghazra/github-readme-stats)
+<img>[![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=bstar098)](https://github.com/anuraghazra/github-readme-stats)</img>
 ---
 
 <details>
