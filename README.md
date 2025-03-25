@@ -1,8 +1,8 @@
 
-   <h1 align="center">  💫Bstar098💫 </h1>
+   <h1 align="center">  Santiago Lucero </h1>
 
 
-   <h2 align="center"> Web and Mobile developer </h2>
+   <h2 align="center"> Software Engineer </h2>
 
 
 
