@@ -10,7 +10,7 @@
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif"/>
    </p>
 
-I'm an enthusiastic developer who values staying updated. I'm self-taught in English, have reinforced it academically, and am now learning iOS development with SwiftUI. Simultaneously, I'm working towards a Systems Analyst degree at ORT. I thrive on collaboration, finding it highly rewarding to share ideas and knowledge with my peers.
+I'm an enthusiast who values staying updated. I'm self-taught in English, have reinforced it academically, and am now learning iOS development with SwiftUI. Simultaneously, I'm working towards a Systems Analyst degree at ORT. I thrive on collaboration, finding it highly rewarding to share ideas and knowledge with my peers.
 
 ---
 
