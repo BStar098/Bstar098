@@ -10,7 +10,7 @@
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif"/>
    </p>
 
-I've been developing for 4 years and I still feel I know nothing.
+I've been developing for 4 years and I still feel I know nothing but I try my best to build solutions that make people happy.
 
 ---
 
