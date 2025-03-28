@@ -33,11 +33,3 @@ I'm an enthusiast who values staying updated. I'm self-taught in English, have r
 
 <img>[![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=bstar098)](https://github.com/anuraghazra/github-readme-stats)</img>
 ---
-
-<details>
- <summary><h3>👨‍💻 Santiago's Journey</h3></summary>
-It all began when I was just nine years old, and my mother bought me my first desktop computer. Despite its sluggish performance, I cherished it, and it sparked a profound interest in all things related to technology. As the years went by I became more and more interested in everything related to IT. I broke and repaired my computer several times, solved software problems by myself and learnt a lot while doing so.
-In relation to software development, it became serious when I decided to enroll on a full-time coding bootcamp on 2022. This resulted in me working as a software developer for DIGITIZING MEXICO TECH, which turned me into a professional software developer!
-To be continued ;)..
-
-[youtube]: https://www.youtube.com/@SantiLucero098
