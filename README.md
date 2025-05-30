@@ -1,15 +1,11 @@
 
    <h1 align="center">  Santiago Lucero </h1>
-
-
-   <h2 align="center"> The more I learn, the more I feel I know nothing. </h2>
-
+   
    <p align="center">
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif"/>
    </p>
 
-Th
-
+The more I learn, the more I feel I know nothing.
 
 ---
 
