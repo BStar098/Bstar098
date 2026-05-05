@@ -22,11 +22,3 @@ The more I learn, the more I feel I know nothing.
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<br />
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bstar098)](https://github.com/anuraghazra/github-readme-stats)
-
-<img>[![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=bstar098)](https://github.com/anuraghazra/github-readme-stats)</img>
----
